@@ -1,7 +1,7 @@
 git is a distributed version control system.
 git is free software.
 
-///**  修改用户名和地址的方式
+///**  使用git命令修改用户名和地址的方式
 Your name and email address were configured automatically based
 on your username and hostname. Please check that they are accurate.
 You can suppress this message by setting them explicitly. Run the
