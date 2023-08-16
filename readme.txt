@@ -1,6 +1,7 @@
 git is a distributed version control system.
 git is free software.
 git has a mutable index called stage.
+git tracks changes
 
 ///**  使用git命令修改用户名和地址的方式
 Your name and email address were configured automatically based
