@@ -3,7 +3,11 @@ git is free software.
 git has a mutable index called stage.
 git tracks changes of files.
 create a new branch is quick.
+<<<<<<< HEAD
 create a new branch is quick & simple.
+=======create a new brache is quick and simple.
+create a new branch is quick and simple.
+>>>>>>> feature1
 
 ///**  使用git命令修改用户名和地址的方式
 Your name and email address were configured automatically based
