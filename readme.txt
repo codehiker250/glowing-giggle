@@ -5,6 +5,8 @@ git tracks changes of files.
 create a new branch is quick.
 create a new brache is quick and simple.
 create a new branch dev to no ff.
+git is a free software.
+I am working and  finished..
 
 ///**  使用git命令修改用户名和地址的方式
 Your name and email address were configured automatically based
